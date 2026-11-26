@@ -1,0 +1,6 @@
+{
+  "name": "Optimundo — Óptica & Serviços",
+  "description": "Óptica em Maputo, Moçambique. Aros a partir de 1.499 Mt, óculos de sol, acessórios ópticos e consultas de optometria na Av. 25 de Setembro, 806.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
